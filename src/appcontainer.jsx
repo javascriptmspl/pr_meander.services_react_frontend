@@ -73,7 +73,7 @@ const AppUniversal = () => {
       <div className="main-wrapper">
         <Route render={(props) => <Header {...props} />} />
         <Switch>
-          {/* home  set the path as  */}
+          {/* home  set the path */}
           <Route exact path="/" element={<Home/>} /> 
           {/* stylists */}
           <Route exact path="/stylist-dashboard" element={<StylistDashboard/>} />
