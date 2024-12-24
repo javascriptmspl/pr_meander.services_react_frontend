@@ -5,7 +5,8 @@ import { Specialities_05,provider_thumb_02,UserAvatar,UserAvatar1,UserAvatar2,
 	Feature_01,Feature_02,Feature_03,Feature_04 } from "../imagepath"
 
 class StylistProfile extends React.Component {
-		
+		   
+  
     render() {
         return (
 			<>
