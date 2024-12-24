@@ -157,7 +157,7 @@ module.exports = {
     },
     host: '0.0.0.0', // Accessible from all network interfaces
     compress: true, // Enable gzip compression
-    port: 3001, // Development server port
+    port: 3000, // Development server port
     historyApiFallback: true, // For single-page apps (SPA)
     
     client: {
