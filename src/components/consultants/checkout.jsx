@@ -6,7 +6,7 @@ import {provider_thumb_02} from "../imagepath"
 class Checkout extends React.Component {
 	
     render() {
-        return (
+        return ( 
 			<>
 			{/* Breadcrumb */}
 			<div className="breadcrumb-bar">

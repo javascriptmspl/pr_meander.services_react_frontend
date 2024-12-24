@@ -6,7 +6,6 @@ import { Specialities_01,Specialities_03,Specialities_04,Specialities_05,
 	provider_thumb_01,provider_thumb_02,provider_thumb_03,provider_thumb_04,provider_thumb_06,
 	provider_01,provider_02,provider_03,provider_04,provider_05,provider_06,provider_07,
 	provider_08,provider_09,provider_10,provider_11,provider_12,Feature_01,Feature_02,Feature_03,Feature_04 } from "../imagepath"
-
 const data = [{
 	id:"01",
 	doc_name:"Sorell Sexton",
