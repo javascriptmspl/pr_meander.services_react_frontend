@@ -4,7 +4,7 @@ import {provider_thumb_02} from "../imagepath"
 
 class Booking extends React.Component {
     render() {
-        return(
+        return( 
             <>
              {/* Breadcrumb */}
         <div className="breadcrumb-bar">
